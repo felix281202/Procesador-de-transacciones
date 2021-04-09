@@ -1,0 +1,3 @@
+Se hizo una eliminación en la fecha 12-11-2020 19:05:26, la transacción eliminada tenía la ID: 2
+Se hizo una adición en la fecha 12-11-2020 19:05:53, la nueva transacción tiene la ID: 1
+Se hizo una eliminación en la fecha 12-11-2020 19:05:56, la transacción eliminada tenía la ID: 1
